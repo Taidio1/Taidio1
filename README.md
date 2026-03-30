@@ -4,7 +4,6 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://codepen.io/taidio1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="taidio1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kacper łacniak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kacper łacniak" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kkacper15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kacper łacniak" height="30" width="40" /></a>
 <a href="https://instagram.com/kkacper15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kkacper15" height="30" width="40" /></a>
